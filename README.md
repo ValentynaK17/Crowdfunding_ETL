@@ -32,4 +32,4 @@ Partisipants:
 <img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Contacts.png" width="700">
 <img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Subcategory.png" width="700">
 <img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Category.png" width="700">
-<img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Campaign.png" width="1000">
+<img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Campaign.png" width="1400">
