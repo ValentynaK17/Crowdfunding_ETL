@@ -10,7 +10,7 @@ Partisipants:
     - *Crowdfunding_ERD.png*  ERD of crowdfunding' related data  <br>
     - *crowdfunding_db_schema.sql*, SQL script for creating table schemas  <br>
     - *сheck_data.sql*, SQL script, verifying that each table has the correct data  <br>
-    - *Output* directory with images, which represent the table data
+  - **Output** directory with images, which represent the table data
   - **Resources** directory contains:
     - **..xlsx*, 2 input files with crowdfunding data <br>
     - **.csv*, 4 files with cleaned data, which are used for db creation <br>
@@ -27,3 +27,9 @@ Partisipants:
  - Create a new database and populate it with tables using the *crowdfunding_db_schema.sql* script, using your PostgreSQL client;
  - Import .csv data from *Resources* directory one by one (be sure to use same order as for creation of respective tables). The name of each CSV file corresponds to a table name.
  - Execute the queries in the *сheck_data.sql* using your PostgreSQL client.
+
+## Final tables:
+<img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Contacts.png" width="700">
+<img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Subcategory.png" width="700">
+<img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Category.png" width="700">
+<img src="https://github.com/ValentynaK17/Crowdfunding_ETL/blob/main/Output/Output_Campaign.png" width="1000">
