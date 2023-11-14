@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-ETL Mini Project, focusing on extracting, transforming, and cleaning data. Python and Pandas methods, along with list comprehensions, were employed for these tasks. Additionally, regular expressions were utilized to identify patterns and extract relevant information from text and string data. Following the data transformation, we generated four CSV files and utilized their contents to construct an Entity-Relationship Diagram (ERD) and define a table schema. Lastly, we successfully uploaded the CSV file data into a Postgres database.
+ETL Mini Project, focusing on extracting, transforming, and cleaning data. Python and Pandas methods, along with list comprehensions, were employed for these tasks. Additionally, regular expressions were utilized to identify patterns and extract relevant information from text and string data. Following the data transformation, we generated four CSV files and utilized their contents to construct an Entity-Relationship Diagram (ERD) and define a table schema. Lastly, we successfully uploaded the CSV file data into a Postgres database.<br>
 Partisipants: 
  - Daria Zinchenko;
  - Valentyna Kravets.
